@@ -1,0 +1,44 @@
+body {
+  background-color: rgba(10, 41, 95, 0.726);
+}
+header{
+  background-image: url("https://img.freepik.com/foto-gratis/textura-pared-estuco-azul-marino-relieve-decorativo-abstracto-grunge-fondo-color-rugoso-gran-angular_1258-28311.jpg");
+  text-align: center;
+  padding-bottom: 15%;
+}
+
+h1 {
+  color: white;
+  padding-top: 100px;
+  font-size: 80px;
+  font-family: "Lucida Sanz";
+}
+
+h2 {
+  color: white;
+  padding-top: 70px;
+  padding-bottom: 2px;
+  font-size: 40px;
+  font-family:"Courier New";
+}
+
+h3 {
+  color: white;
+  font-size: 40px;
+}
+
+.container{
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  margin-right: 80px;
+  margin-left: 80px;
+}
+
+.link{
+  text-decoration: none;
+  background-color: white;
+  color:  rgba(10, 41, 95, 0.726);
+  padding: 20px;
+  border-radius: 6px;
+}
